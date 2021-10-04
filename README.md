@@ -1,4 +1,4 @@
-### Eae, sou o Vinicius Gabriel
+### Eae, sou o Vinicius Ximenes
 - 📚 Currently a **T.I student at IFCE**
 - 👨‍💻 Learning **C language**
 - 🔎 Interested in **Python and Linux**
