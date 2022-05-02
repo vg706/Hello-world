@@ -1,5 +1,5 @@
-## Eae, sou o Vinicius Gabriel
+## Sou o Vinicius Gabriel
 - 📚 Currently a **T.I student at IFCE**
-- 👨‍💻 Learning **C language**
-- 🔎 Interested in **Python and Linux**
-- 📝 Looking foward to get into **mobile and game development**
+- 👨‍💻 Learning **Java language and Git**
+- 🔎 Interested in **OOP and Linux**
+- 📝 Looking foward to get into **Data management and HTML**
