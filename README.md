@@ -1,5 +1,5 @@
 ## Sou o Vinicius Gabriel
-- 📚 Currently a **T.I student at IFCE**
-- 👨‍💻 Learning **Python and Web Development**
-- 🔎 Interested in **Cybersecurity and Networks**
-- 📝 Looking foward to get into **Network administration and app development**
+- 📚 Currently a **T.I student at UNIFOR**
+- 👨‍💻 Learning **C++ and Web Development**
+- 🔎 Interested in **Game Development and Networks**
+- 📝 Looking foward to get into **App development**
